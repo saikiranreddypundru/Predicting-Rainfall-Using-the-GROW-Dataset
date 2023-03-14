@@ -25,5 +25,5 @@ The Data for the project is made available by the [GROW Observatory](https://dis
 	
 	
 ## Machine Learning:
-	The notebook details different models on which the data is trained and performance stats about them.
+	The notebook details different models on which the data is trained and performance stats about them. The code is adapted from [Google Tensorflow tutorials](https://www.tensorflow.org/tutorials/structured_data/time_series).
 
