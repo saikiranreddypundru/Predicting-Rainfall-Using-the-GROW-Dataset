@@ -8,22 +8,22 @@ The Data for the project is made available by the [GROW Observatory](https://dis
 
 ## Data Preparation:
 
-**1.Locations_Cleaned.ipynb**:
+**1. Locations_Cleaned.ipynb**
 
-	A preliminary Cleaning of Location data for the sensors, defining peoper bounding boxes for the co-ordinates and some data cleaning
+A preliminary Cleaning of Location data for the sensors, defining peoper bounding boxes for the co-ordinates and some data cleaning
 	
-**2.Dataprocessing_1.ipynb**:
+**2. Dataprocessing_1.ipynb**:
 
-	This is the first part of Data processing notebooks, these databricks notebooks were worked upon in azure cloud. The resultant data from this notebook is fed as an input second notebook. 
+This is the first part of Data processing notebooks, these databricks notebooks were worked upon in azure cloud. The resultant data from this notebook is fed as an input second notebook. 
 
-**3.Dataprocessing_2.ipynb**:
+**3. Dataprocessing_2.ipynb**:
 
-	This is the second notebook from the dataprocessing tasks. The notebook details the generation of train, test and validation datasets which are to be fed to the models. Train_Test_Val_Datasets Folder contains the outputs from this notebook.
+This is the second notebook from the dataprocessing tasks. The notebook details the generation of train, test and validation datasets which are to be fed to the models. Train_Test_Val_Datasets Folder contains the outputs from this notebook.
 	
 	The notebooks are split to optimise the costs of computing resources.
 	
 	
 	
 ## Machine Learning:
-	The notebook details different models on which the data is trained and performance stats about them. The code is adapted from [Google Tensorflow tutorials](https://www.tensorflow.org/tutorials/structured_data/time_series).
+The notebook details different models on which the data is trained and performance stats about them. The code is adapted from [Google Tensorflow tutorials](https://www.tensorflow.org/tutorials/structured_data/time_series)
 
