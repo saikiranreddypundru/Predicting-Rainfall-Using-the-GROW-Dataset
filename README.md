@@ -6,7 +6,7 @@ Using low cost soil sensors, the GROW Observatory gathered data about soil and g
 
 The Data for the project is made available by the [GROW Observatory](https://discovery.dundee.ac.uk/en/datasets/grow-soil-moisture-data)
 
-![Location Data about Grow Sensors](https://github.com/saikiranreddypundru/Predicting-Rainfall-Using-the-GROW-Dataset/blob/main/Grow_Sensor_Locations.png" Grow sensors visualised")
+![Location Data about Grow Sensors](https://github.com/saikiranreddypundru/Predicting-Rainfall-Using-the-GROW-Dataset/blob/main/Grow_Sensor_Locations.png "Grow sensors visualised")
 
 ## Data Preparation:
 
